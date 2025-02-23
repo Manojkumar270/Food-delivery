@@ -1,5 +1,5 @@
 import React from "react";
-import "./Sidebar.css";
+import "./sidebar.css";
 import { assets } from "../../assets/assets.js";
 import { NavLink } from "react-router-dom";
 
